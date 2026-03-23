@@ -1,4 +1,4 @@
-# AI-Based-Breast-Cancer-Prediction- Forecasting Crop Disease detection 
+# AI-Based-Forecasting Crop Disease detection 
 # 🌿 CropSentinel AI — Crop Disease Progression Forecaster
 
 > **The world's first end-to-end ML system that forecasts HOW FAST a crop disease will spread over 7 days, not just whether it exists — with explainable treatment plans, geo-risk heatmaps, and multi-modal dual-input fusion.**
